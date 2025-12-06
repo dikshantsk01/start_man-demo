@@ -1,4 +1,4 @@
 # start_man-demo
 Starting of version control system understanding. 
 <br> 
-author - start-man
+author - start_man
